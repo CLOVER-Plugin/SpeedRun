@@ -1,0 +1,4 @@
+name: SpeedRun
+version: '1.0-SNAPSHOT'
+main: yd.kingdom.speedRun.SpeedRun
+api-version: '1.21'
