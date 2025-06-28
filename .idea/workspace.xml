@@ -5,43 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Blockbuster" beforeDir="false" afterPath="$PROJECT_DIR$/../Blockbuster" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassWar" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassWar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/config/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/config/ConfigManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/listener/EvolutionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/listener/EvolutionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/listener/SkillTriggerExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/listener/SkillTriggerExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/manager/WeaponEvolutionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/java/yd/kingdom/evolution/manager/WeaponEvolutionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/resources/bookConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/resources/bookConfig.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Evolution/src/main/resources/weaponConfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Evolution/src/main/resources/weaponConfig.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PlayerRanking" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayerRanking" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RankWar" beforeDir="false" afterPath="$PROJECT_DIR$/../RankWar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Trade" beforeDir="false" afterPath="$PROJECT_DIR$/../Trade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/TimeAccelerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/commands/ReloadCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ConsumeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/DamageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/EntityTargetHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ExplosionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/PlayerMoveHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ydking0911"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ydking0911&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/ydking0911/PermissionWar.git",
+    "url": "https://github.com/CLOVER-Plugin/SpeedRun.git",
     "accountId": "15bb7e21-5471-4a63-bffb-1ce998abdf7a"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2z9AtnmmEQao35C5ooWg28azLEx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,8 +60,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Emrka",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/parky/Documents/GitHub/SpeedRun",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -72,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751133131850</updated>
       <workItem from="1751133132862" duration="4000" />
+      <workItem from="1751133354489" duration="1545000" />
     </task>
     <servers />
   </component>
