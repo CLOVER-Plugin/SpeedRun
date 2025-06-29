@@ -20,18 +20,13 @@ public final class SpeedRun extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new DamageHandler(), this);
         getServer().getPluginManager().registerEvents(new ExplosionHandler(), this);
         getServer().getPluginManager().registerEvents(new EntityTargetHandler(), this);
+        getServer().getPluginManager().registerEvents(new ToolDurabilityHandler(), this);
 
-        getCommand("srreload").setExecutor(new ReloadCommand(this));
+        getCommand("리로드").setExecutor(new ReloadCommand(this));
     }
 
     @Override
     public void onDisable() {
         getLogger().info("SpeedRun plugin disabled.");
-    }
-
-    private void registerEvents(org.bukkit.event.Listener... listeners) {
-        for (org.bukkit.event.Listener listener : listeners) {
-            getServer().getPluginManager().registerEvents(listener, this);
-        }
     }
 }

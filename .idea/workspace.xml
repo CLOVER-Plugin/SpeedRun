@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/TimeAccelerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/commands/ReloadCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ConsumeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/DamageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/EntityTargetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ExplosionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/PlayerMoveHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/ChatHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/ChatHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -40,17 +37,17 @@
     &quot;assignee&quot;: &quot;ydking0911&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CLOVER-Plugin/SpeedRun.git",
-    "accountId": "15bb7e21-5471-4a63-bffb-1ce998abdf7a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CLOVER-Plugin/SpeedRun.git&quot;,
+    &quot;accountId&quot;: &quot;15bb7e21-5471-4a63-bffb-1ce998abdf7a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2z9AtnmmEQao35C5ooWg28azLEx" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -59,8 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.SpeedRun [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Emrka",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/parky/Documents/GitHub/SpeedRun",
     "node.js.detected.package.eslint": "true",
@@ -68,6 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1751133131850</updated>
       <workItem from="1751133132862" duration="4000" />
-      <workItem from="1751133354489" duration="1545000" />
+      <workItem from="1751133354489" duration="2060000" />
+      <workItem from="1751174671560" duration="3766000" />
     </task>
     <servers />
   </component>
