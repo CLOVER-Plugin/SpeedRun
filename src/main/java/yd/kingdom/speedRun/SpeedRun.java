@@ -20,6 +20,7 @@ public final class SpeedRun extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new DamageHandler(), this);
         getServer().getPluginManager().registerEvents(new ExplosionHandler(), this);
         getServer().getPluginManager().registerEvents(new EntityTargetHandler(), this);
+        getServer().getPluginManager().registerEvents(new ToolDurabilityHandler(), this);
 
         getCommand("srreload").setExecutor(new ReloadCommand(this));
     }
