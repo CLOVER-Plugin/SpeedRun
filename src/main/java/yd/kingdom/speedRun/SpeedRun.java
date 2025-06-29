@@ -29,10 +29,4 @@ public final class SpeedRun extends JavaPlugin {
     public void onDisable() {
         getLogger().info("SpeedRun plugin disabled.");
     }
-
-    private void registerEvents(org.bukkit.event.Listener... listeners) {
-        for (org.bukkit.event.Listener listener : listeners) {
-            getServer().getPluginManager().registerEvents(listener, this);
-        }
-    }
 }
