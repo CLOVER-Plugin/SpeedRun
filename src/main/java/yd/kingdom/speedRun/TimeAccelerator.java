@@ -4,6 +4,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.World;
 import org.bukkit.scheduler.BukkitRunnable;
 
+// 하루 주기 2배 가속
 public class TimeAccelerator {
 
     private final SpeedRun plugin;
