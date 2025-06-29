@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/FoodCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ToolDurabilityHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ConsumeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ConsumeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.SpeedRun [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Emrka",
     "ignore.virus.scanning.warn.message": "true",
@@ -84,7 +83,7 @@
       <updated>1751133131850</updated>
       <workItem from="1751133132862" duration="4000" />
       <workItem from="1751133354489" duration="2060000" />
-      <workItem from="1751174671560" duration="2015000" />
+      <workItem from="1751174671560" duration="2268000" />
     </task>
     <servers />
   </component>

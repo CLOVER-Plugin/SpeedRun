@@ -22,7 +22,7 @@ public final class SpeedRun extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new EntityTargetHandler(), this);
         getServer().getPluginManager().registerEvents(new ToolDurabilityHandler(), this);
 
-        getCommand("srreload").setExecutor(new ReloadCommand(this));
+        getCommand("리로드").setExecutor(new ReloadCommand(this));
     }
 
     @Override
