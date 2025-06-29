@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/ChatHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/ChatHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/ChatHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,23 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.SpeedRun [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Emrka",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/parky/Documents/GitHub/SpeedRun",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.SpeedRun [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Emrka&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/parky/Documents/GitHub/SpeedRun&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,6 +84,8 @@
       <workItem from="1751133132862" duration="4000" />
       <workItem from="1751133354489" duration="2060000" />
       <workItem from="1751174671560" duration="3766000" />
+      <workItem from="1751178505208" duration="54000" />
+      <workItem from="1751178660871" duration="103000" />
     </task>
     <servers />
   </component>
