@@ -141,8 +141,8 @@ public class CraftingHandler implements Listener {
                 return;
             }
 
-            // 3. 업그레이드 (5%)
-            if (rand < 0.20 && upgradeMap.containsKey(originalType)) {
+            // 3. 업그레이드 (10%)
+            if (rand < 0.25 && upgradeMap.containsKey(originalType)) {
                 Material upgraded = upgradeMap.get(originalType);
                 ItemStack upgradedItem = new ItemStack(upgraded, resultAmount);
                 if (cursorAmount <= resultAmount) {

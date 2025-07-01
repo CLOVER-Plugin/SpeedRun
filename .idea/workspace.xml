@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="1차 완성?">
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" afterDir="false" />
+    <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="2025-07-01&#10;&#10;일부 수정">
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <workItem from="1751293735535" duration="2264000" />
       <workItem from="1751296272040" duration="83000" />
       <workItem from="1751304226187" duration="1562000" />
-      <workItem from="1751351619120" duration="6178000" />
+      <workItem from="1751351619120" duration="6347000" />
     </task>
     <task id="LOCAL-00001" summary="1차 완성?">
       <option name="closed" value="true" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751357670985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2025-07-01&#10;&#10;일부 수정">
+      <option name="closed" value="true" />
+      <created>1751357880735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751357880735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1차 완성?" />
-    <option name="LAST_COMMIT_MESSAGE" value="1차 완성?" />
+    <MESSAGE value="2025-07-01&#10;&#10;일부 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-07-01&#10;&#10;일부 수정" />
   </component>
 </project>
