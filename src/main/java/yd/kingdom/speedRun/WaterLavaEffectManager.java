@@ -24,7 +24,6 @@ public class WaterLavaEffectManager {
                     Material feetBlock = player.getLocation().getBlock().getType();
 
                     double hp = player.getHealth();
-                    double maxHP = player.getAttribute(Attribute.GENERIC_MAX_HEALTH).getDefaultValue();
 
                     if (feetBlock == Material.WATER || feetBlock == Material.KELP || feetBlock == Material.SEAGRASS) {
                         player.addPotionEffect(new PotionEffect(PotionEffectType.NIGHT_VISION, 300, 0, true, false));

@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/BlockBreakHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/BlockBreakHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/CraftingHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/CraftingHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
+    <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="1차 완성?">
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,11 +96,35 @@
       <workItem from="1751293735535" duration="2264000" />
       <workItem from="1751296272040" duration="83000" />
       <workItem from="1751304226187" duration="1562000" />
-      <workItem from="1751351619120" duration="5954000" />
+      <workItem from="1751351619120" duration="6178000" />
     </task>
+    <task id="LOCAL-00001" summary="1차 완성?">
+      <option name="closed" value="true" />
+      <created>1751357670985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751357670985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1차 완성?" />
+    <option name="LAST_COMMIT_MESSAGE" value="1차 완성?" />
   </component>
 </project>
