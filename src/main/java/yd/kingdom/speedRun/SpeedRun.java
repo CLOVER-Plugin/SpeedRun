@@ -11,10 +11,11 @@ public final class SpeedRun extends JavaPlugin {
         getLogger().info("SpeedRun plugin enabled.");
 
         new TimeAccelerator(this).start();
+        new WaterLavaEffectManager(this).start();
 
         getServer().getPluginManager().registerEvents(new BlockBreakHandler(), this);
         getServer().getPluginManager().registerEvents(new PlayerMoveHandler(), this);
-        getServer().getPluginManager().registerEvents(new CraftingHandler(), this);
+        getServer().getPluginManager().registerEvents(new CraftingHandler(this), this);
         getServer().getPluginManager().registerEvents(new ConsumeHandler(), this);
         getServer().getPluginManager().registerEvents(new ChatHandler(), this);
         getServer().getPluginManager().registerEvents(new DamageHandler(), this);

@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff4c63-9b0e-4343-bd3a-1e3436ef637e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/WaterLavaEffectManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/SpeedRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/BlockBreakHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yd/kingdom/speedRun/events/CraftingHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/SpeedRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/BlockBreakHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/BlockBreakHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/CraftingHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/yd/kingdom/speedRun/events/CraftingHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpeedRun-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +28,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -34,14 +50,14 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CLOVER-Plugin/SpeedRun.git&quot;,
-    &quot;accountId&quot;: &quot;15bb7e21-5471-4a63-bffb-1ce998abdf7a&quot;
+    &quot;accountId&quot;: &quot;84c80700-fd46-4219-bace-18a1fd15dadf&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2z9AtnmmEQao35C5ooWg28azLEx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -52,10 +68,11 @@
   &quot;keyToString&quot;: {
     &quot;Maven.SpeedRun [install].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Emrka&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;PopoGonry&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/parky/Documents/GitHub/SpeedRun&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rhtjd/Desktop/minecraftPlugin/SpeedRun&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,8 +85,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +103,13 @@
       <workItem from="1751174671560" duration="3766000" />
       <workItem from="1751178505208" duration="54000" />
       <workItem from="1751178660871" duration="103000" />
+      <workItem from="1751292000401" duration="1207000" />
+      <workItem from="1751293412527" duration="42000" />
+      <workItem from="1751293474419" duration="230000" />
+      <workItem from="1751293735535" duration="2264000" />
+      <workItem from="1751296272040" duration="83000" />
+      <workItem from="1751304226187" duration="1562000" />
+      <workItem from="1751351619120" duration="5954000" />
     </task>
     <servers />
   </component>

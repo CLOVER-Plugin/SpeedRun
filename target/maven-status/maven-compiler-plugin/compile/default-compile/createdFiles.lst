@@ -1,4 +1,7 @@
+yd\kingdom\speedRun\WaterLavaEffectManager$1.class
+yd\kingdom\speedRun\WaterLavaEffectManager.class
 yd\kingdom\speedRun\commands\ReloadCommand.class
+yd\kingdom\speedRun\events\BlockBreakHandler$1.class
 yd\kingdom\speedRun\events\BlockBreakHandler.class
 yd\kingdom\speedRun\SpeedRun.class
 yd\kingdom\speedRun\TimeAccelerator.class
